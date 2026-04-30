@@ -30,7 +30,7 @@ If you're starting today:
 
 > Linux system administration workflow and tools
 
-![Preview](https://raw.githubusercontent.com/linuxteck/linux-sysadmin/main/sysadmin-preview.png)
+![Preview](https://github.com/linuxteck/linux-system-administration-guide-2026/blob/main/Linux_System_Admin.png)
 
 ---
 
